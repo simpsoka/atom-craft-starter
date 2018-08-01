@@ -1,0 +1,43 @@
+{
+  "title": "Untitled",
+  "author": "",
+  "license": "MIT-0",
+  "palette": {
+    "W": "255, 255, 255",
+    "M": "115, 40, 44",
+    "Y": "227, 176, 61",
+    "_": "0, 0, 0, 0"
+  },
+  "template": [
+    "_, _, _, _, _, _, _, _, _, _, W, _, _, _, _, _, _, _, _, _, _",
+    "_, _, _, _, _, _, _, _, _, _, W, _, _, _, _, _, _, _, _, _, _",
+    "_, _, _, _, _, _, _, _, W, W, W, W, W, _, _, _, _, _, _, _, _",
+    "_, _, _, _, _, _, _, Y, W, Y, W, Y, W, W, _, _, _, _, _, _, _",
+    "_, _, _, _, _, _, W, W, W, W, W, W, W, W, W, _, _, _, _, _, _",
+    "_, _, _, _, _, Y, W, M, W, M, W, M, W, M, W, W, _, _, _, _, _",
+    "_, _, _, _, W, W, W, W, W, W, W, W, W, W, W, W, W, _, _, _, _",
+    "_, _, _, W, W, W, W, W, M, W, M, W, M, W, Y, W, M, W, _, _, _",
+    "_, _, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, _, _",
+    "_, W, W, W, W, W, W, W, W, W, M, W, M, W, M, W, M, W, M, W, _",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M, M",
+    "W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W, W",
+    "Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y, Y"
+  ]
+}
