@@ -7,4 +7,4 @@ This repo works with Atom and the Atom Crafts package. To install it, download a
 
 ## In this starter 
 
-There are a few designs to get you stared and they're located in /designs. You'll also find some guides to learn the basic stitch, brick stitch, and information on what tools may be useful as you start out with beading. Those are located in /guides. 
+There are a few designs to get you stared and they're located in [/designs](https://github.com/simpsoka/atom-craft-starter/tree/master/designs). You'll also find some guides to learn the basic stitch, brick stitch, and information on what tools may be useful as you start out with beading. Those are located in [/guides](https://github.com/simpsoka/atom-craft-starter/tree/master/guides). 
