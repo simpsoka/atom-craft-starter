@@ -3,7 +3,11 @@ This repo has resources that you can use to get started using the [Atom Crafts](
 
 ## Install the Atom Crafts package
 
-This repo works with Atom and the Atom Crafts package. To install it, download and install [Atom](https://atom.io/) if you haven't already. After opening atom, select 'packages/command palette/tobble' from the main menu. Search for atom-crafts and install the package. 
+This repo works with Atom and the Atom Crafts package. To install it, download and install [Atom](https://atom.io/) if you haven't already. 
+
+```
+Atom > Preferences > Install and type 'Atom-Crafts'.
+```
 
 ## In this starter 
 
